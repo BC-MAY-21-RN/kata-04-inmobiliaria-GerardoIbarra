@@ -1,0 +1,50 @@
+{
+  "casa": [
+    {
+        "name":"Casa de los chicos del barrio",
+        "ubicacion": "Cleveland (USA)",
+        "camas": 5,
+        "baños": 2,
+        "longitude":230,
+        "precio":7878,
+        "imge":"http://pm1.narvii.com/6490/0e05c37522431b58c46b01bbbfaa21692958e9db_00.jpg"
+      
+      },
+      {
+        "name":"Casa de Naruto usumaki",
+        "ubicacion": "Aldea oculta de la hoja",
+        "camas": 2,
+        "baños": 1,
+        "longitude":100,
+        "precio":10000,
+        "imge":"https://static.wikia.nocookie.net/naruto/images/1/1e/Apartamento_de_Naruto_Anime.png/revision/latest?cb=20140510025152&path-prefix=es"
+       },
+      {
+          "name":"Casa de patricio estrella",
+        "ubicacion": "Fondo de bikini",
+        "camas": 1,
+        "baños": 1,
+        "longitude":20,
+        "precio":50000,
+        "imge":"https://static.wikia.nocookie.net/bobesponja/images/3/3b/Fun-Sized_Friends_081.png/revision/latest/top-crop/width/360/height/450?cb=20210412175808"
+       },
+      {
+        "name":"Casa de Sherk",
+        "ubicacion": "Pantano",
+        "camas": 2,
+        "baños": 1,
+        "longitude":3456,
+        "precio":100000,
+        "imge":"https://static.wikia.nocookie.net/shrek/images/c/c8/Ci%C3%A9naga.jpg/revision/latest?cb=20100516172132&path-prefix=es"
+       },
+      {
+        "name":"Casa de link",
+        "ubicacion": "Hyrule",
+        "camas": 1,
+        "baños": 1,
+        "longitude":28930,
+        "precio":1000000000,
+        "imge":"https://www.nintenderos.com/wp-content/uploads/2021/04/slack-imgs.com-Cropped-36.jpg"
+      }
+]
+}
