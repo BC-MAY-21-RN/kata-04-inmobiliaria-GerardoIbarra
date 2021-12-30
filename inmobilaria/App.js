@@ -4,7 +4,7 @@ import homesFromJsonData from './componets/casa.json';
 
 const App = () => {
   return homesFromJsonData.casa.map(home => (
-    <Home home={home} />
+    <Home key={home.name} home={home} />
   ))
 }
 
